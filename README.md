@@ -17,8 +17,6 @@ The dataset contains transactional sales data for a retail superstore, including
 * Regional sales information
 * Time-based order details
 
-> 📌 *The dataset is not included in this repository due to size and licensing limitations.*
-
 ---
 
 ## Key Metrics (KPIs)
